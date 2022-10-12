@@ -12,8 +12,8 @@ An great project created using bleeding-edge technologies in Front-end dev using
 
 - ![Vite](https://vitejs.dev/)
 - ![Tailwindcss](https://tailwindcss.com/)
-- ![Figma](figma.com/)
-- ![Typescript](typescriptlang.org/)
+- ![Figma](https://figma.com/)
+- ![Typescript](https://typescriptlang.org/)
 - ![Postcss](https://postcss.org/)
 - ![Git/Github](https://github.com/)
 - ![Storybook](https://storybookjs.org)
