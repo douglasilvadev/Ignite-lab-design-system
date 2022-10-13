@@ -25,12 +25,12 @@ module.exports = {
 
       cyan: {
         500: '#81d8f7',
-        300: '#9be1fb',
+        300: '#9be1fb'
       },
     },
     extend: {
       fontFamily: {
-        sans: 'Inter, sans-serif',
+        sans: 'Inter, sans-serif'
       },
     },
   },
