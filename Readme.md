@@ -1,6 +1,6 @@
 # Ignite Lab Design System 
 
-An great project created using bleeding-edge technologies in Front-end dev using UI Figma design, Composition patterns, Component documentation and modern UI javascript environment
+An great project created using bleeding-edge technologies in Front-end dev using UI Figma design, Composition patterns, Component documentation and modern UI javascript environment.
 
 <div style="align-center">
   <img src="https://i.ibb.co/VNm77Br/ignite-lab-design-system.png" width="40%" />
