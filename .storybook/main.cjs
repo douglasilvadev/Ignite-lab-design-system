@@ -6,7 +6,8 @@ module.exports = {
   "addons": [
     "@storybook/addon-links",
     "@storybook/addon-essentials",
-    "@storybook/addon-interactions"
+    "@storybook/addon-interactions",
+    '@storybook/addon-a11y'
   ],
   "framework": "@storybook/react",
   "core": {
@@ -19,6 +20,7 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/Ignite-lab-design-system/'
     }
+
     return config
   }
 }
