@@ -19,7 +19,6 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/Ignite-lab-design-system/'
     }
-
     return config
   }
 }
